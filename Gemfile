@@ -35,6 +35,7 @@ end
 gem 'simple_form'
 gem 'devise'
 gem 'foundation-rails'
+gem 'omniauth-github'
 
 group :test, :development do
   gem 'rspec-rails'
